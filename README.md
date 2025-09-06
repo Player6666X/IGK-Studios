@@ -1,4 +1,4 @@
-# <img src="assets/icon.png" width="32" height="32"> IGK Studio (Indie Game K Studio)
+# <img src="assets/ícon.png" width="32" height="32"> IGK Studio (Indie Game K Studio)
 
 **A engine definitiva para criação universal: de jogos épicos a aplicações inovadoras, programada para o futuro.**
 
